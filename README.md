@@ -106,7 +106,9 @@ npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
 ### 𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥
 
 NIROSHAN EDITS 
-<image="javascript:void(0);">   
+Niroshan YT 
+Niroshan EDITS 
+
 
 ##
 <br>

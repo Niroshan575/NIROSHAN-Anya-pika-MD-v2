@@ -12,21 +12,21 @@ global.headerText = "Anya by Pika" // text for header of menu
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
+global.ownername = "NIROSHAN"   // Owner name //        
+global.ownernumber = ['94714184446'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
+global.region = "Srilanka" // your country name
 global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
+global.district = "Gampaha" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
 global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.email = "niroshanmalidu0800@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
+global.premium = ['94714184446','94716682532']  // available soon
 global.sudo = ['916900******','917355******']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
@@ -82,10 +82,13 @@ global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 //--------------- Systemic Function --------------\\
 global.autoTyping = false 
 global.autoreadpmngc = false 
-global.autoReadGc = false 
+global.autoReadGc = true 
+
 global.autoRecord = false 
 global.available = true
-global.autoTyping = false 
+global.autoTyping = true
+
+ 
 
 //----------- Users Userlimit -----------\\
 global.userLimit = {

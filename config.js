@@ -34,7 +34,7 @@ global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM �
 
 
 global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['918811074852'] 
+global.ownernumber = ['94704119750'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
@@ -54,8 +54,8 @@ global.greet4 = "Good night 😴" // after 8:30 PM
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
-global.sudo = ['916900******','91881107****']  // Co - Owners
+global.premium = ['94716682532','94714184446']  // available soon
+global.sudo = ['94716682532','94714184446']  // Co - Owners
 
 
 //--------------- Tip ----------------\\
@@ -71,7 +71,7 @@ global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 global.allmenuImg = fs.readFileSync('./AnyaPikaMedia/theme/Commandsimgs/Allmenu.jpg') // Thumbnail for Allmenu command 
  
 //--------------- Systemic Function --------------\\
-global.autoTyping = false 
+global.autoTyping = true
 global.autoreadpmngc = false 
 global.autoReadGc = false 
 global.autoRecord = false 
